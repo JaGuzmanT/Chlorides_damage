@@ -1,4 +1,5 @@
 # Chloride Damage Classification with Convolutional Neural Network 🏫
+![](Samples.png)
 
 Researchers 🧑‍🔬
 - *Dr. José A. Guzmán-Torres* <br />
@@ -37,6 +38,8 @@ Model Development: Train and develop new models to improve accuracy in damage cl
 
 ## Repository Contents ✍️
 Civil-damage-dataset: Directory containing the images of concrete samples divided in train, testing, and validation.
+
 Model.py: Script for training the CNN model.
+
 predict.py: Script for making predictions using the trained model.
 README.md: This document.
