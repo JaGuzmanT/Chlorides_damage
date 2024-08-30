@@ -1,2 +1,2 @@
-# Chloride Damage Classification with Convolutional Neural Network 🏫
+# Chloride Damage Dataset 🏫
 ![](Samples.png)
